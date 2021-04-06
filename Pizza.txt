@@ -1,5 +1,7 @@
 Recipe from Deepak
 
-1.Go to dominos.com.
+1.Go to pizzahut.com.
 2.Select the Pizza
-3.Order
+3.Get discount through discount code
+4.Order
+
